@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: #777;
+=======
+    color: black;
+>>>>>>> 9f2f5fc063c39df8af271bafd002af9cd32cc2e6
     text-align: center;
     font-family: 'Arial';
     font-size: 16px;
