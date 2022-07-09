@@ -10,4 +10,4 @@ Un blog increible para el curso de Git y GitHub de platzi
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddu
 
-Y como un amable recordatorio: **Este README.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/"a ver el curso"). 
+Y como un amable recordatorio: **Este README.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso"). 
